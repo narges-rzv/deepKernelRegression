@@ -1,5 +1,5 @@
 # deepKernelRegression
-If used, please cite our ICLR paper: 
+If used, please cite our 2016 ICLR workshop paper: 
 
 https://arxiv.org/abs/1511.07938
 
